@@ -1,0 +1,9 @@
+.dub/
+*.a
+*.o
+docs.json
+__dummy.html
+dub.selections.json
+/examples/search
+/examples/live
+carejobs-test-*

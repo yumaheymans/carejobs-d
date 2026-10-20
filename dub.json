@@ -1,0 +1,12 @@
+{
+    "name": "carejobs",
+    "description": "D client for the free CareJobs.Now US healthcare jobs API: search open jobs, posted hourly pay, employers and states. No API key.",
+    "authors": ["O-mega Enterprise, Inc."],
+    "copyright": "Copyright (c) 2026 O-mega Enterprise, Inc.",
+    "license": "MIT",
+    "homepage": "https://carejobs.now/data",
+    "targetType": "library",
+    "sourcePaths": ["source"],
+    "importPaths": ["source"],
+    "libs": ["curl"]
+}
